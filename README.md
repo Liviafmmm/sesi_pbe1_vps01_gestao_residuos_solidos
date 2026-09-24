@@ -85,7 +85,7 @@ http://localhost:3000/ocorrencias/1
 **GET**
 
 ```text
-http://localhost:3000/buscar/local/Avenida%20Principal
+http://localhost:3000/buscar/local/Rua%20das%20Flores
 ```
 
 ![Buscar por local](prints/teste_por_local.png)
