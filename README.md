@@ -1,6 +1,6 @@
 # Gestão de Resíduos Sólidos
 
-## Descrição
+## Breve Descrição
 
 Projeto desenvolvido para a atividade de Back-End do SENAI.
 
@@ -8,7 +8,7 @@ O sistema foi criado para registrar pontos de descarte irregular de resíduos, c
 
 É possível cadastrar, consultar, atualizar e excluir ocorrências.
 
-## Tecnologias
+## Tecnologias Ultilizadas 
 
 * Node.js
 * Express
@@ -19,7 +19,7 @@ O sistema foi criado para registrar pontos de descarte irregular de resíduos, c
 * Thunder Client
 * GitHub
 
-## Estrutura do projeto
+## Estrutura 
 
 ```text
 sesi_pbe1_vps01_gestao_residuos_2026
