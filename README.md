@@ -208,5 +208,3 @@ Ele possui campos para:
 
 **Curso:** Desenvolvimento de Sistemas - SENAI
 "# sesi_pbe1_vps01_gestao_residuos_2026" 
-# sesi_pbe1_vps01_gestao_residuos_2026
-# sesi_pbe1_vps01_gestao_residuos_2026
