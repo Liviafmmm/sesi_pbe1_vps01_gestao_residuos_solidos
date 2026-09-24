@@ -196,3 +196,9 @@ Ele possui campos para:
 * Nível de risco;
 * Data;
 * Status.
+
+## Visualização do projeto
+
+Veja abaixo como ficou a interface do projeto:
+
+![Visualização do site](./img/html.png)
