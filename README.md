@@ -201,7 +201,7 @@ Ele possui campos para:
 
 **Tema:** Gestão de Resíduos Sólidos
 
-**Aluno:** Lívia Morais
+**Aluna:** Lívia Morais
 
 **Curso:** Desenvolvimento de Sistemas - SENAI
 "# sesi_pbe1_vps01_gestao_residuos_2026" 
