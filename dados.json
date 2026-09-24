@@ -1,0 +1,58 @@
+[
+    {
+        "id": 2,
+        "local": "Avenida Brasil, 250",
+        "tipo_residuo": "Entulho",
+        "nivel_risco": "Médio",
+        "data_registro": "2026-09-24",
+        "status": "Em análise"
+    },
+    {
+        "id": 3,
+        "local": "Rua do Comércio, 85",
+        "tipo_residuo": "Lixo doméstico",
+        "nivel_risco": "Baixo",
+        "data_registro": "2026-09-24",
+        "status": "Resolvido"
+    },
+    {
+        "id": 4,
+        "local": "Rua dos Ipês, 310",
+        "tipo_residuo": "Eletrônico",
+        "nivel_risco": "Alto",
+        "data_registro": "2026-09-25",
+        "status": "Pendente"
+    },
+    {
+        "id": 5,
+        "local": "Avenida Principal, 450",
+        "tipo_residuo": "Entulho",
+        "nivel_risco": "Médio",
+        "data_registro": "2026-09-25",
+        "status": "Em análise"
+    },
+    {
+        "id": 6,
+        "local": "Rua São Paulo, 72",
+        "tipo_residuo": "Lixo doméstico",
+        "nivel_risco": "Baixo",
+        "data_registro": "2026-09-26",
+        "status": "Pendente"
+    },
+    {
+        "id": 7,
+        "local": "Rua das Palmeiras, 190",
+        "tipo_residuo": "Entulho",
+        "nivel_risco": "Alto",
+        "data_registro": "2026-09-26",
+        "status": "Pendente"
+    },
+    {
+        "local": "Rua Nova, 100",
+        "tipo_residuo": "Eletrônico",
+        "nivel_risco": "Alto",
+        "data_registro": "2026-09-24",
+        "status": "Pendente",
+        "id": 8
+    }
+]
