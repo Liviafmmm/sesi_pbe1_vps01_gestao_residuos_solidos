@@ -196,12 +196,3 @@ Ele possui campos para:
 * Nível de risco;
 * Data;
 * Status.
-
-## Projeto
-
-**Tema:** Gestão de Resíduos Sólidos
-
-**Aluna:** Lívia Morais
-
-**Curso:** Desenvolvimento de Sistemas - SENAI
-"# sesi_pbe1_vps01_gestao_residuos_2026"
