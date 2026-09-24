@@ -141,9 +141,6 @@ Exemplo:
     "status": "Resolvido"
 }
 ```
-
-![Atualizar cadastro](prints/atualizar_cadastro.png)
-
 ![PUT atualizar](prints/put_atualizar.png)
 
 ### Excluir ocorrência
