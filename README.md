@@ -201,4 +201,4 @@ Ele possui campos para:
 
 Veja abaixo como ficou a interface do projeto:
 
-![Visualização do site](./img/html.png)
+![Visualização do site](prints/html.png)
