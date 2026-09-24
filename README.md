@@ -102,7 +102,7 @@ http://localhost:3000/buscar/tipo/Entulho
 
 ### Cadastrar ocorrência
 
-**POST**
+**GET**
 
 ```text
 http://localhost:3000/ocorrencias
