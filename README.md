@@ -199,6 +199,6 @@ Ele possui campos para:
 
 ## Visualização do projeto
 
-Veja abaixo como ficou a interface do projeto:
+ Interface do projeto:
 
 ![Visualização do site](prints/html.png)
